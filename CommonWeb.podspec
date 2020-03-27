@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "CommonWeb"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "A short description of CommonWeb."
 
   # This description is used to generate tags and improve search results.
@@ -93,8 +93,6 @@ Pod::Spec.new do |spec|
 
   #spec.source_files  = "Classes", "Classes/**/*.{h,m}"
     spec.source_files  = "Tool/*.{h,m}"
-    spec.source_files  = "WebProtocol/*.{h,m}"
-    spec.source_files  = "WKWebViewManager/*.{h,m}"
 
   spec.exclude_files = "Classes/Exclude"
 
