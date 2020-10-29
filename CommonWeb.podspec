@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "CommonWeb"
-  spec.version      = "1.0.5"
+  spec.version      = "1.0.6"
   spec.summary      = "CommonWeb is about wkwebview source"
 
   # This description is used to generate tags and improve search results.
@@ -53,9 +53,9 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "bianjianbo" => "bianjianbo@fang.com" }
+  spec.author             = { "bianjianbo" => "1907386312@qq.com" }
   # Or just: spec.author    = "bianjianbo"
-  # spec.authors            = { "bianjianbo" => "bianjianbo@fang.com" }
+  # spec.authors            = { "bianjianbo" => "1907386312@qq.com" }
   # spec.social_media_url   = "https://twitter.com/bianjianbo"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
