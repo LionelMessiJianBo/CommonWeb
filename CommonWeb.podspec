@@ -16,15 +16,15 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "CommonWeb"
-  spec.version      = "1.0.2"
-  spec.summary      = "A short description of CommonWeb."
+  spec.version      = "1.0.3"
+  spec.summary      = "CommonWeb is about wkwebview source"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = "CommonWeb is about wkwebview source"
+  spec.description  = "CommonWeb is about wkwebview source and so on"
 
   spec.homepage     = "https://github.com/LionelMessiJianBo/CommonWeb"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -136,5 +136,6 @@ Pod::Spec.new do |spec|
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
+  # s.dependency 'AFNetworking', '~> 2.3'
 
 end
